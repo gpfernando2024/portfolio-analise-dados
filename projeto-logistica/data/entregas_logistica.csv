@@ -1,0 +1,151 @@
+origem,destino,lat_origem,lon_origem,lat_destino,lon_destino,distancia_km,tempo_estimado_h,status,custo_transporte
+Rio de Janeiro,São Paulo,-22.9068,-43.1729,-23.5505,-46.6333,361.26,5.57,Entregue,718.83
+Rio de Janeiro,Manaus,-22.9068,-43.1729,-3.119,-60.0217,2845.0,54.99,Entregue,6668.25
+Brasília,Curitiba,-15.8267,-47.9218,-25.4284,-49.2733,1072.31,17.84,Entregue,1665.37
+Porto Alegre,Fortaleza,-30.0346,-51.2177,-3.7172,-38.5433,3204.26,58.89,Em Trânsito,8582.71
+São Paulo,Brasília,-23.5505,-46.6333,-15.8267,-47.9218,865.62,13.53,Entregue,1887.49
+Salvador,Rio de Janeiro,-12.9714,-38.5014,-22.9068,-43.1729,1205.56,23.25,Em Trânsito,2041.54
+Manaus,Curitiba,-3.119,-60.0217,-25.4284,-49.2733,2723.73,41.18,Entregue,8060.78
+Fortaleza,Rio de Janeiro,-3.7172,-38.5433,-22.9068,-43.1729,2181.0,35.73,Em Trânsito,6889.37
+Salvador,Brasília,-12.9714,-38.5014,-15.8267,-47.9218,1063.74,16.6,Entregue,1693.1
+Curitiba,Rio de Janeiro,-25.4284,-49.2733,-22.9068,-43.1729,679.81,10.13,Entregue,2197.81
+Recife,Salvador,-8.0476,-34.877,-12.9714,-38.5014,673.74,12.65,Em Trânsito,1489.32
+Rio de Janeiro,Brasília,-22.9068,-43.1729,-15.8267,-47.9218,928.83,15.31,Entregue,1848.03
+Curitiba,Manaus,-25.4284,-49.2733,-3.119,-60.0217,2723.73,50.08,Em Trânsito,5852.11
+São Paulo,Curitiba,-23.5505,-46.6333,-25.4284,-49.2733,338.91,5.1,Entregue,1054.06
+Rio de Janeiro,Curitiba,-22.9068,-43.1729,-25.4284,-49.2733,679.81,9.96,Em Trânsito,1790.87
+Brasília,Porto Alegre,-15.8267,-47.9218,-30.0346,-51.2177,1609.11,27.79,Entregue,5356.88
+Curitiba,Belo Horizonte,-25.4284,-49.2733,-19.9167,-43.9345,820.48,14.94,Entregue,2151.9
+Manaus,Fortaleza,-3.119,-60.0217,-3.7172,-38.5433,2387.59,35.13,Entregue,5488.61
+Belo Horizonte,Manaus,-19.9167,-43.9345,-3.119,-60.0217,2550.99,42.61,Em Trânsito,7682.46
+Belo Horizonte,Brasília,-19.9167,-43.9345,-15.8267,-47.9218,619.18,9.4,Entregue,1451.56
+Fortaleza,Porto Alegre,-3.7172,-38.5433,-30.0346,-51.2177,3204.26,52.89,Em Trânsito,11029.56
+São Paulo,Belo Horizonte,-23.5505,-46.6333,-19.9167,-43.9345,489.7,7.7,Entregue,1260.46
+Salvador,Rio de Janeiro,-12.9714,-38.5014,-22.9068,-43.1729,1205.56,21.58,Entregue,2189.69
+Curitiba,Manaus,-25.4284,-49.2733,-3.119,-60.0217,2723.73,41.75,Entregue,6851.17
+Curitiba,Manaus,-25.4284,-49.2733,-3.119,-60.0217,2723.73,43.8,Em Trânsito,4918.18
+Porto Alegre,Manaus,-30.0346,-51.2177,-3.119,-60.0217,3120.39,45.64,Entregue,8418.48
+Rio de Janeiro,Fortaleza,-22.9068,-43.1729,-3.7172,-38.5433,2181.0,32.28,Entregue,6899.23
+São Paulo,Curitiba,-23.5505,-46.6333,-25.4284,-49.2733,338.91,5.02,Entregue,1150.24
+Recife,Rio de Janeiro,-8.0476,-34.877,-22.9068,-43.1729,1868.33,26.86,Entregue,4793.04
+Recife,Manaus,-8.0476,-34.877,-3.119,-60.0217,2837.64,53.24,Em Trânsito,7251.16
+Brasília,Manaus,-15.8267,-47.9218,-3.119,-60.0217,1932.13,29.68,Em Trânsito,5564.03
+Fortaleza,Salvador,-3.7172,-38.5433,-12.9714,-38.5014,1023.52,17.42,Entregue,2594.79
+Brasília,Rio de Janeiro,-15.8267,-47.9218,-22.9068,-43.1729,928.83,16.36,Entregue,2486.13
+Brasília,São Paulo,-15.8267,-47.9218,-23.5505,-46.6333,865.62,16.83,Entregue,2391.03
+São Paulo,Fortaleza,-23.5505,-46.6333,-3.7172,-38.5433,2360.7,45.91,Em Trânsito,4664.76
+Brasília,Manaus,-15.8267,-47.9218,-3.119,-60.0217,1932.13,36.7,Entregue,6513.27
+Recife,Brasília,-8.0476,-34.877,-15.8267,-47.9218,1660.04,25.27,Entregue,5171.02
+Rio de Janeiro,Recife,-22.9068,-43.1729,-8.0476,-34.877,1868.33,32.73,Em Trânsito,4338.65
+São Paulo,Belo Horizonte,-23.5505,-46.6333,-19.9167,-43.9345,489.7,9.56,Em Trânsito,1447.76
+Rio de Janeiro,Curitiba,-22.9068,-43.1729,-25.4284,-49.2733,679.81,12.63,Entregue,1748.87
+Belo Horizonte,Salvador,-19.9167,-43.9345,-12.9714,-38.5014,962.74,16.25,Entregue,3127.91
+Porto Alegre,Rio de Janeiro,-30.0346,-51.2177,-22.9068,-43.1729,1124.96,22.05,Em Trânsito,3935.74
+Rio de Janeiro,Curitiba,-22.9068,-43.1729,-25.4284,-49.2733,679.81,12.75,Entregue,1680.01
+Fortaleza,São Paulo,-3.7172,-38.5433,-23.5505,-46.6333,2360.7,44.3,Entregue,3551.22
+Recife,Curitiba,-8.0476,-34.877,-25.4284,-49.2733,2456.17,42.01,Atrasado,8386.92
+Porto Alegre,Recife,-30.0346,-51.2177,-8.0476,-34.877,2971.82,55.97,Atrasado,6221.25
+Manaus,Porto Alegre,-3.119,-60.0217,-30.0346,-51.2177,3120.39,60.92,Entregue,6637.73
+Recife,Manaus,-8.0476,-34.877,-3.119,-60.0217,2837.64,41.49,Entregue,7270.75
+Porto Alegre,Rio de Janeiro,-30.0346,-51.2177,-22.9068,-43.1729,1124.96,16.78,Entregue,1841.6
+Brasília,Recife,-15.8267,-47.9218,-8.0476,-34.877,1660.04,31.68,Entregue,5445.89
+Manaus,São Paulo,-3.119,-60.0217,-23.5505,-46.6333,2680.99,42.97,Entregue,6269.35
+Porto Alegre,Salvador,-30.0346,-51.2177,-12.9714,-38.5014,2299.17,33.47,Em Trânsito,4388.02
+Brasília,Salvador,-15.8267,-47.9218,-12.9714,-38.5014,1063.74,18.37,Entregue,3024.62
+Salvador,Rio de Janeiro,-12.9714,-38.5014,-22.9068,-43.1729,1205.56,24.02,Entregue,3306.04
+Rio de Janeiro,Belo Horizonte,-22.9068,-43.1729,-19.9167,-43.9345,340.36,5.6,Entregue,854.89
+Salvador,Rio de Janeiro,-12.9714,-38.5014,-22.9068,-43.1729,1205.56,17.84,Entregue,2699.32
+Porto Alegre,Curitiba,-30.0346,-51.2177,-25.4284,-49.2733,545.22,8.76,Em Trânsito,1894.36
+São Paulo,Manaus,-23.5505,-46.6333,-3.119,-60.0217,2680.99,47.89,Atrasado,7578.55
+Belo Horizonte,Salvador,-19.9167,-43.9345,-12.9714,-38.5014,962.74,18.41,Entregue,1650.2
+Curitiba,Salvador,-25.4284,-49.2733,-12.9714,-38.5014,1782.57,28.71,Entregue,5232.24
+Curitiba,Manaus,-25.4284,-49.2733,-3.119,-60.0217,2723.73,45.57,Em Trânsito,9017.38
+Rio de Janeiro,Recife,-22.9068,-43.1729,-8.0476,-34.877,1868.33,28.06,Entregue,2967.23
+Belo Horizonte,Salvador,-19.9167,-43.9345,-12.9714,-38.5014,962.74,18.09,Em Trânsito,2294.85
+Porto Alegre,São Paulo,-30.0346,-51.2177,-23.5505,-46.6333,850.62,16.28,Em Trânsito,2883.69
+Belo Horizonte,Manaus,-19.9167,-43.9345,-3.119,-60.0217,2550.99,50.29,Entregue,5710.21
+Fortaleza,Belo Horizonte,-3.7172,-38.5433,-19.9167,-43.9345,1885.27,37.08,Atrasado,4202.83
+São Paulo,Fortaleza,-23.5505,-46.6333,-3.7172,-38.5433,2360.7,43.55,Entregue,4719.18
+Porto Alegre,Fortaleza,-30.0346,-51.2177,-3.7172,-38.5433,3204.26,46.12,Atrasado,9609.43
+Brasília,Belo Horizonte,-15.8267,-47.9218,-19.9167,-43.9345,619.18,8.91,Em Trânsito,1932.8
+São Paulo,Brasília,-23.5505,-46.6333,-15.8267,-47.9218,865.62,13.37,Atrasado,1873.53
+Brasília,Salvador,-15.8267,-47.9218,-12.9714,-38.5014,1063.74,20.0,Entregue,3087.57
+São Paulo,Porto Alegre,-23.5505,-46.6333,-30.0346,-51.2177,850.62,15.62,Entregue,2665.14
+Curitiba,Brasília,-25.4284,-49.2733,-15.8267,-47.9218,1072.31,19.69,Entregue,3023.97
+Curitiba,Rio de Janeiro,-25.4284,-49.2733,-22.9068,-43.1729,679.81,9.8,Em Trânsito,1399.23
+Fortaleza,Manaus,-3.7172,-38.5433,-3.119,-60.0217,2387.59,42.17,Em Trânsito,3713.19
+Curitiba,Belo Horizonte,-25.4284,-49.2733,-19.9167,-43.9345,820.48,13.32,Entregue,2844.69
+Manaus,Fortaleza,-3.119,-60.0217,-3.7172,-38.5433,2387.59,41.95,Entregue,7336.74
+Porto Alegre,Rio de Janeiro,-30.0346,-51.2177,-22.9068,-43.1729,1124.96,19.5,Entregue,2984.71
+Fortaleza,São Paulo,-3.7172,-38.5433,-23.5505,-46.6333,2360.7,39.09,Em Trânsito,7348.91
+Brasília,Fortaleza,-15.8267,-47.9218,-3.7172,-38.5433,1687.75,28.79,Atrasado,5734.55
+Manaus,Salvador,-3.119,-60.0217,-12.9714,-38.5014,2607.44,41.21,Atrasado,4561.07
+Porto Alegre,Curitiba,-30.0346,-51.2177,-25.4284,-49.2733,545.22,8.61,Em Trânsito,1173.52
+Porto Alegre,Belo Horizonte,-30.0346,-51.2177,-19.9167,-43.9345,1339.6,24.88,Entregue,3790.89
+Belo Horizonte,Salvador,-19.9167,-43.9345,-12.9714,-38.5014,962.74,16.56,Entregue,3049.43
+Brasília,Recife,-15.8267,-47.9218,-8.0476,-34.877,1660.04,25.26,Entregue,4504.23
+Recife,Porto Alegre,-8.0476,-34.877,-30.0346,-51.2177,2971.82,46.79,Em Trânsito,7495.96
+Belo Horizonte,Rio de Janeiro,-19.9167,-43.9345,-22.9068,-43.1729,340.36,6.11,Em Trânsito,962.43
+Rio de Janeiro,Curitiba,-22.9068,-43.1729,-25.4284,-49.2733,679.81,10.71,Entregue,1325.15
+São Paulo,Rio de Janeiro,-23.5505,-46.6333,-22.9068,-43.1729,361.26,6.58,Em Trânsito,885.19
+Rio de Janeiro,Porto Alegre,-22.9068,-43.1729,-30.0346,-51.2177,1124.96,19.3,Entregue,3104.35
+Fortaleza,Porto Alegre,-3.7172,-38.5433,-30.0346,-51.2177,3204.26,55.25,Em Trânsito,5752.1
+Rio de Janeiro,Recife,-22.9068,-43.1729,-8.0476,-34.877,1868.33,34.36,Em Trânsito,5807.18
+Recife,São Paulo,-8.0476,-34.877,-23.5505,-46.6333,2125.41,34.76,Entregue,7088.12
+Belo Horizonte,Porto Alegre,-19.9167,-43.9345,-30.0346,-51.2177,1339.6,21.15,Entregue,4656.18
+Recife,Manaus,-8.0476,-34.877,-3.119,-60.0217,2837.64,48.48,Entregue,9403.12
+Belo Horizonte,Porto Alegre,-19.9167,-43.9345,-30.0346,-51.2177,1339.6,22.7,Em Trânsito,4023.58
+Curitiba,Manaus,-25.4284,-49.2733,-3.119,-60.0217,2723.73,45.63,Entregue,5388.88
+Curitiba,Brasília,-25.4284,-49.2733,-15.8267,-47.9218,1072.31,19.34,Entregue,2294.11
+Belo Horizonte,Brasília,-19.9167,-43.9345,-15.8267,-47.9218,619.18,11.34,Em Trânsito,1788.13
+Rio de Janeiro,Recife,-22.9068,-43.1729,-8.0476,-34.877,1868.33,32.13,Entregue,4830.05
+Brasília,Recife,-15.8267,-47.9218,-8.0476,-34.877,1660.04,28.73,Atrasado,5045.85
+São Paulo,Recife,-23.5505,-46.6333,-8.0476,-34.877,2125.41,35.7,Entregue,7195.54
+Fortaleza,Recife,-3.7172,-38.5433,-8.0476,-34.877,627.76,10.33,Em Trânsito,1863.98
+Brasília,Porto Alegre,-15.8267,-47.9218,-30.0346,-51.2177,1609.11,29.59,Entregue,3816.28
+Salvador,Recife,-12.9714,-38.5014,-8.0476,-34.877,673.74,10.45,Atrasado,2143.16
+Manaus,Porto Alegre,-3.119,-60.0217,-30.0346,-51.2177,3120.39,61.74,Entregue,7139.59
+São Paulo,Belo Horizonte,-23.5505,-46.6333,-19.9167,-43.9345,489.7,7.79,Entregue,867.45
+São Paulo,Salvador,-23.5505,-46.6333,-12.9714,-38.5014,1451.8,25.21,Entregue,2792.28
+Fortaleza,Curitiba,-3.7172,-38.5433,-25.4284,-49.2733,2662.59,40.94,Entregue,8424.02
+Rio de Janeiro,Porto Alegre,-22.9068,-43.1729,-30.0346,-51.2177,1124.96,22.33,Atrasado,2901.08
+Salvador,Brasília,-12.9714,-38.5014,-15.8267,-47.9218,1063.74,16.88,Em Trânsito,3257.67
+São Paulo,Curitiba,-23.5505,-46.6333,-25.4284,-49.2733,338.91,6.28,Entregue,522.19
+Belo Horizonte,Porto Alegre,-19.9167,-43.9345,-30.0346,-51.2177,1339.6,21.13,Entregue,3520.4
+Curitiba,Fortaleza,-25.4284,-49.2733,-3.7172,-38.5433,2662.59,49.9,Em Trânsito,7227.58
+Rio de Janeiro,Brasília,-22.9068,-43.1729,-15.8267,-47.9218,928.83,13.4,Entregue,1594.06
+Curitiba,Recife,-25.4284,-49.2733,-8.0476,-34.877,2456.17,42.4,Entregue,7196.65
+Brasília,Rio de Janeiro,-15.8267,-47.9218,-22.9068,-43.1729,928.83,14.53,Em Trânsito,1953.49
+Rio de Janeiro,São Paulo,-22.9068,-43.1729,-23.5505,-46.6333,361.26,6.34,Entregue,851.4
+Porto Alegre,Salvador,-30.0346,-51.2177,-12.9714,-38.5014,2299.17,45.75,Entregue,5380.34
+Fortaleza,Salvador,-3.7172,-38.5433,-12.9714,-38.5014,1023.52,16.32,Em Trânsito,3231.69
+Fortaleza,Belo Horizonte,-3.7172,-38.5433,-19.9167,-43.9345,1885.27,29.15,Entregue,6468.25
+Porto Alegre,Recife,-30.0346,-51.2177,-8.0476,-34.877,2971.82,50.12,Entregue,9365.59
+Salvador,Brasília,-12.9714,-38.5014,-15.8267,-47.9218,1063.74,15.97,Em Trânsito,1779.99
+Brasília,Porto Alegre,-15.8267,-47.9218,-30.0346,-51.2177,1609.11,26.21,Entregue,4564.04
+Recife,Salvador,-8.0476,-34.877,-12.9714,-38.5014,673.74,12.56,Em Trânsito,1296.43
+Salvador,Curitiba,-12.9714,-38.5014,-25.4284,-49.2733,1782.57,26.37,Entregue,5173.67
+São Paulo,Manaus,-23.5505,-46.6333,-3.119,-60.0217,2680.99,38.88,Em Trânsito,4480.53
+Recife,Manaus,-8.0476,-34.877,-3.119,-60.0217,2837.64,43.55,Em Trânsito,8175.87
+Recife,Porto Alegre,-8.0476,-34.877,-30.0346,-51.2177,2971.82,45.12,Entregue,5010.8
+Brasília,Salvador,-15.8267,-47.9218,-12.9714,-38.5014,1063.74,16.81,Entregue,2380.7
+Salvador,Recife,-12.9714,-38.5014,-8.0476,-34.877,673.74,9.63,Entregue,1752.23
+Recife,Curitiba,-8.0476,-34.877,-25.4284,-49.2733,2456.17,43.76,Em Trânsito,4816.74
+Salvador,Rio de Janeiro,-12.9714,-38.5014,-22.9068,-43.1729,1205.56,18.59,Em Trânsito,4101.04
+Brasília,Curitiba,-15.8267,-47.9218,-25.4284,-49.2733,1072.31,16.56,Entregue,2201.44
+Porto Alegre,Curitiba,-30.0346,-51.2177,-25.4284,-49.2733,545.22,7.83,Entregue,1725.77
+Salvador,Belo Horizonte,-12.9714,-38.5014,-19.9167,-43.9345,962.74,17.18,Entregue,2807.38
+São Paulo,Rio de Janeiro,-23.5505,-46.6333,-22.9068,-43.1729,361.26,5.92,Entregue,1045.79
+Recife,Rio de Janeiro,-8.0476,-34.877,-22.9068,-43.1729,1868.33,27.7,Entregue,4947.58
+Recife,Salvador,-8.0476,-34.877,-12.9714,-38.5014,673.74,12.55,Atrasado,1079.83
+Recife,Rio de Janeiro,-8.0476,-34.877,-22.9068,-43.1729,1868.33,28.12,Entregue,4299.8
+São Paulo,Brasília,-23.5505,-46.6333,-15.8267,-47.9218,865.62,16.34,Entregue,2272.85
+Brasília,Rio de Janeiro,-15.8267,-47.9218,-22.9068,-43.1729,928.83,15.19,Entregue,2166.36
+Manaus,Brasília,-3.119,-60.0217,-15.8267,-47.9218,1932.13,29.49,Atrasado,4368.08
+Curitiba,Recife,-25.4284,-49.2733,-8.0476,-34.877,2456.17,43.78,Em Trânsito,6734.95
+Rio de Janeiro,Curitiba,-22.9068,-43.1729,-25.4284,-49.2733,679.81,10.88,Entregue,1379.54
+Brasília,Belo Horizonte,-15.8267,-47.9218,-19.9167,-43.9345,619.18,10.14,Entregue,1122.62
+Manaus,Recife,-3.119,-60.0217,-8.0476,-34.877,2837.64,50.83,Em Trânsito,5570.16
+Recife,Rio de Janeiro,-8.0476,-34.877,-22.9068,-43.1729,1868.33,29.31,Em Trânsito,6254.84
+Manaus,Brasília,-3.119,-60.0217,-15.8267,-47.9218,1932.13,33.03,Em Trânsito,5002.53
+Curitiba,Belo Horizonte,-25.4284,-49.2733,-19.9167,-43.9345,820.48,15.95,Entregue,1502.99
